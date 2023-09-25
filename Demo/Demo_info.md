@@ -1,3 +1,3 @@
-#The demo data results are included in the AccuCal publication:
-####Citation: Biová, J.; Dietz, N.; Chan,Y.O.; Joshi, T.; Bilyeu, K.; Škrabišová,M. AccuCalc: A Python Package forAccuracy Calculation in GWAS. Genes 2023, 14, 123. https://doi.org/10.3390/genes14010123
+# The demo data results are included in the AccuCal publication:
+#### Citation: Biová, J.; Dietz, N.; Chan,Y.O.; Joshi, T.; Bilyeu, K.; Škrabišová,M. AccuCalc: A Python Package forAccuracy Calculation in GWAS. Genes 2023, 14, 123. https://doi.org/10.3390/genes14010123
 ## The demo data include, associated low-density markers and phenotypes for purple or white flower colors (42 accessions with WT purple flowers, 98 accessions with MUT white flowers, and 7 with unknown NA phenotypes are publicly available at https://soykb.org/, accessed on 27 December 2022 and https://soybase.org/, accessed on 27 December 2022)
