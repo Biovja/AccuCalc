@@ -5,5 +5,4 @@ Python-based package for Accuracy calculation and Synthetic phenotype creation. 
 + NumPy
 + pandas 
 + Matplotlib
-+ IPython
-+ itertools
+
